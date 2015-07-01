@@ -1,0 +1,8 @@
+server:
+  port: 8001
+
+# Examples path to upload folder
+# relative images/ or ../images/
+# absolute unix - /path/to/folder/ windows - /D:/path/to/folder
+fileUpload:
+  pathToUploadFolder: ../images/
